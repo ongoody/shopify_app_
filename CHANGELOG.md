@@ -1,5 +1,6 @@
 Unreleased
 ----------
+- Handle invalid token when adding redirection headers [#1945](https://github.com/Shopify/shopify_app/pull/1945)
 
 22.5.2 (March 14, 2025)
 ----------
